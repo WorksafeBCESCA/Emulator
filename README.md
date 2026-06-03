@@ -5,5 +5,5 @@
     <area target="" alt="Manage my account" title="Manage my account" href="managemyaccount.html" coords="469,712,629,738" shape="rect">
     <area target="" alt="" title="" href="lettersanddoc.html" coords="1041,711,1229,738" shape="rect">
 
-    <area target="" alt="" title="" href="" coords="" shape="0">
+    <area target="" alt="" title="" href="" coords="" shape="0"></area>
 </map>
